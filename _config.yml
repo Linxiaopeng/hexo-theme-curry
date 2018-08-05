@@ -1,21 +1,20 @@
 # Header
 menu:
   归档: /archives
-rss: /atom.xml
-title: GARY.SHEN
+  RSS: /atom.xml
 
-author: GARY.SHEN
-aboutme: Halo~
+author: PuchiPuchi
+aboutme: Wingardium Leviosa.
 
 # Content
-excerpt_link: 全文...
+excerpt_link: VIEW MORE
 fancybox: true
 date_format: 'YYYY年MM月DD日'
 
 socials:
-  github: "https://github.com/gary-Shen"
-  email: "guanlinshen@126.com"
-  wechat: "Grinson"
+  dribbble: "https://dribbble.com/linxiaopeng"
+  github: "https://github.com/linxiaopeng"
+  email: "linxiaopeng.my@gmail.com"
 
 
 
@@ -43,11 +42,11 @@ show_count: false
 disqus_shortname:
 
 # Miscellaneous
-google_analytics: 'UA-61220413-1'
+google_analytics: UA-123409950-1
 gauges_analytics:
 favicon: /images/avatar.png
 avatar: "/images/avatar.png"
-twitter:
-google_plus:
+twitter: "https://twitter.com/linxiaopeng_"
+dribbble: "https://dribbble.com/linxiaopeng"
 fb_admins:
 fb_app_id:
